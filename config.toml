@@ -1,4 +1,5 @@
 baseURL = "https://jnlasher.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Jnlasher Blog"
 theme = "ananke"
+publishDir = "jnlasher.github.io"
